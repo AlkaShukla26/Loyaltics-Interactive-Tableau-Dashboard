@@ -22,7 +22,7 @@ The goal of this project was to understand **customer loyalty behaviors** and ev
 
 ## 🛠 Thought Process & Approach  
 1. **Data Cleaning & Preparation**: Raw transactional data was refined to separate registered vs non-registered customers and classify refunds/freebies.  
-2. **Calculated Fields**: Created profit margin, net profit margin, and refund-related measures for accurate performance tracking.  
+2. **Calculated Fields**: Created sum of sales and refund-related measures etc for accurate performance tracking.  
 3. **Parameters & Filters**: Built parameters to dynamically switch between App/Non-App users, include/exclude refunds, and segment customer bases.  
 4. **Dashboard Design**: Structured in a way that decision-makers can:  
    - Spot **overall business health** at a glance  
